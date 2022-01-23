@@ -8,3 +8,8 @@ font-family: 'Roboto', sans-serif;
 font-family: 'Roboto Condensed', sans-serif;
 font-family: 'Ubuntu', sans-serif;
 }
+.carosel-button{
+    background-color: white;
+    color: blue;
+    font-weight: 600;
+}
