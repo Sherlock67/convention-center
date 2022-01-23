@@ -13,3 +13,41 @@ font-family: 'Ubuntu', sans-serif;
     color: blue;
     font-weight: 600;
 }
+.fa-check-circle{
+   
+    color: darkcyan;
+    font-size: 20px;
+    
+}
+.price-table-button{
+    width: 180px;
+    height: 45px;
+    background-color: 
+    rgba(255, 192, 203, 0.418);
+    border-radius: 20px;
+    color: blue;
+    font-weight: 900;
+}
+.premium{
+    background-color: #3F87F5;
+    color: #fff;
+    transform: translateY(-10px);
+    z-index: 1;
+ 
+
+}
+/* Problem is here Hot superscript */
+.hot{
+    height: 27px;
+    width: 46px;
+    margin-left: 200px;
+    z-index: -1;
+    margin-right: 150px;
+  
+    background: #FF4E4E;
+    transform: translateY(-1.5px);
+    border-radius: 13.5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
