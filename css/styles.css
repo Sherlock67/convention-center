@@ -39,3 +39,19 @@ font-family: 'Ubuntu', sans-serif;
 .alter{
     color: white;
 }
+.view-more{
+    width: 180px;
+    height: 45px;
+    background-color: skyblue;
+
+    border-radius: 20px;
+    color: white;
+    font-weight: 900;
+}
+.view-more:hover{
+    background-color: black;
+    color: white;
+}
+.top-text{
+    font-weight: 800;
+}
