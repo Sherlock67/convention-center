@@ -36,6 +36,9 @@ font-family: 'Ubuntu', sans-serif;
  
 
 }
+.alter{
+    color: white;
+}
 /* Problem is here Hot superscript */
 .hot{
     height: 27px;
