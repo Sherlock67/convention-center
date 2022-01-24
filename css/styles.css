@@ -39,18 +39,3 @@ font-family: 'Ubuntu', sans-serif;
 .alter{
     color: white;
 }
-/* Problem is here Hot superscript */
-.hot{
-    height: 27px;
-    width: 46px;
-    margin-left: 200px;
-    z-index: -1;
-    margin-right: 150px;
-  
-    background: #FF4E4E;
-    transform: translateY(-1.5px);
-    border-radius: 13.5px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    
-}
